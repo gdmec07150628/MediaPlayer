@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_media_rew" />
+    <drawable name="ic_media_pause" />
+    <drawable name="ic_media_play" />
+    <drawable name="ic_media_ff" />
+</resources>
